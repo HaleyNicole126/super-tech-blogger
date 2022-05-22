@@ -148,7 +148,7 @@ form label {
 
   /* Styling of Header of all pages */
   header {
-    display:inline-flex;
+    display: flex;
     justify-content: space-between;
     position: fixed;
     width:100%;
